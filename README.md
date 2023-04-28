@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning typescript<br>
+🌱 I’m currently learning Next.js and Typescript<br>
 
 
 ## 🌐 Socials:
